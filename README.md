@@ -1,12 +1,24 @@
 # first-web-app-dev-project 
 
-## Schedules
+### Lab 1: Team Contract
 
-- Antwone
-- (Figure out how to get jpg to show here)
-- Ahaan
+
+## Availability 
+
+|    |                     |    |    |    |    |                     |    |    |    |
+|----|---------------------|----|----|----|----|---------------------|----|----|----|
+|    | AH (first sem only) |    |    |    |    | AH (first sem only) |    |    |    |
+|    |                     |    |    |    |    |                     |    |    |    |
+|    |                     |    | AH |    |    |                     |    | AH |    |
+| AH | AH                  | AH | AH | AH | AH | AH                  | AH | AH | AH |
+|    |                     |    |    |    |    |                     |    |    |    |
+|    |                     |    |    |    |    |                     |    |    |    |
+|    |                     |    | AH |    |    |                     |    | AH |    |
 
 ## Skills/ Experience
+
+- Antwone
+- Ahaan 
 
 ## Responsibilities/ Roles
 
