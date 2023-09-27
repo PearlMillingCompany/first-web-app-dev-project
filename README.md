@@ -1,6 +1,6 @@
 # first-web-app-dev-project 
 
-### Lab 1: Team Contract
+# Lab 1: Team Contract :scroll:
 
 
 ## Availability 
@@ -16,16 +16,19 @@
 | G |       |       |       |       |       |       |       |       |       |        |
 | H |       |       |       | AH    |       |       |       |       | AH    |        |
 
-"*" Antwone only has frees this period during the first semester
+*Italics* - Antwone only has frees this period during the first semester 
 
 ## Skills/ Experience
 
-- Antwone
-- Ahaan 
+- Antwone : Intro to Python (both in and outside of school), Intermmediate Prgramming 
+- Ahaan : 
 
 ## Responsibilities/ Roles
 
+*Roles are subject to change on a case basis*
+
 ## Group Interactions
+
 
 ## Important Links
 
