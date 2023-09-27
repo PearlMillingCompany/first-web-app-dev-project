@@ -21,8 +21,10 @@
 - Ahaan : Intro to computer science  
 
 ## Responsibilities/ Roles
+*Roles are subject to change on a case by case basis*
 
-*Roles are subject to change on a case basis*
+- Antwone : Manager
+- Ahaan : Presenter, Note Taker 
 
 ## Group Interactions(Norms)
 1. Respect eachother
