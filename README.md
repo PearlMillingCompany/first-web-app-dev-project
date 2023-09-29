@@ -26,6 +26,9 @@
 - Antwone : Manager
 - Ahaan : Presenter, Note Taker 
 
+## How individuals will be held accountable
+-If an individual dosen't do his own work then he will have to do his work plus one of his peers work.  
+
 ## Group Interactions(Norms)
 1. Respect eachother
 2. Respect ideas
@@ -37,4 +40,6 @@
 ## Important Links :link:
 
 - [Link to Contract Necessities](https://hm-web-dev.github.io/hm-web-dev-23.github.io/2023/09/15/lab1-team-contract.html)
+
+![Carti]()
 
