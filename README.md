@@ -36,6 +36,11 @@
 4. Don't talk over eachother
 5. Stay Focused
 
+## How to handle conflict when it arises
+1. Have an outside person calm down the pair fighting.
+2. If that dosent work get a teacher to break the situation up.
+3. Make sure everyone makes up once the conflict has been controlled.
+
 
 ## Important Links :link:
 
