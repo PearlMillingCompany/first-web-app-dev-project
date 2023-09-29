@@ -41,5 +41,5 @@
 
 - [Link to Contract Necessities](https://hm-web-dev.github.io/hm-web-dev-23.github.io/2023/09/15/lab1-team-contract.html)
 
-![Carti]()
+![Carti](./Coding.png)
 
